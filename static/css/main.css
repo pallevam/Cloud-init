@@ -1,0 +1,14 @@
+.bg-img {
+  /* The image used */
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twenty20.com%2Fphotos%2F59865880%3F%26utm_t20_source%3Dpartner%26utm_t20_channel%3Dreshot%26utm_t20_campaign%3Drelated&psig=AOvVaw3CYUJCR7zhqkLYgOicesKp&ust=1597668028929000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjk26zfn-sCFQAAAAAdAAAAABAD")
+
+  min-height: 380px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* Needed to position the navbar */
+  position: relative;
+}
